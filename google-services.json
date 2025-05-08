@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "326486980525",
+    "firebase_url": "https://expo-auth-2bad2-default-rtdb.firebaseio.com",
+    "project_id": "expo-auth-2bad2",
+    "storage_bucket": "expo-auth-2bad2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326486980525:android:8a0331a6273eae8e2c5324",
+        "android_client_info": {
+          "package_name": "com.lakshmi_valapudasu.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326486980525-80rqfpgafbr2bnf9fnhirlg9h9nmuoeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lakshmi_valapudasu.demo",
+            "certificate_hash": "e3d95ef3231e381a1121ed20ee0e7d01b8ad877a"
+          }
+        },
+        {
+          "client_id": "326486980525-96g9st0d7tejp3pnbblh3pljm8f9lk3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lakshmi_valapudasu.demo",
+            "certificate_hash": "0394265ce340ad09106e86dc8524877269a59fa5"
+          }
+        },
+        {
+          "client_id": "326486980525-nn892bj9udmiuu07c2gma7th8vn0891o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdLGA1AXf3MmOtOg0O5dxw0h6q6M8hfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_Imports.Platform_oauth_client": [
+            {
+              "client_id": "326486980525-nn892bj9udmiuu07c2gma7th8vn0891o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326486980525:android:f836a27e5ae039d82c5324",
+        "android_client_info": {
+          "package_name": "com.lakshmi_valapudasu.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326486980525-fnf0j61fk72ltcf69kp9176mtqse7dar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lakshmi_valapudasu.frontend",
+            "certificate_hash": "ea2001e9ac86d75929d3d731d32493ded9488ee4"
+          }
+        },
+        {
+          "client_id": "326486980525-nn892bj9udmiuu07c2gma7th8vn0891o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdLGA1AXf3MmOtOg0O5dxw0h6q6M8hfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_Imports.Platform_oauth_client": [
+            {
+              "client_id": "326486980525-nn892bj9udmiuu07c2gma7th8vn0891o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
